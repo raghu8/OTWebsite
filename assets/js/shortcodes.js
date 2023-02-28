@@ -297,7 +297,7 @@
             $(".preload").fadeOut('slow', function () {
                 $(this).remove();
             });
-        }, 1500);
+        }, 500);
     };
 
     // Dom Ready
